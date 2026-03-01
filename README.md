@@ -116,6 +116,6 @@ With **4+ years of experience** in:
   
   Made with ❤️ by Mohamed Mohyeldin
   
-  Full Stack Developer | Software Tester | Freelancer
+  Full Stack Developer | Software Tester
   
 </div>
