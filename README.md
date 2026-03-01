@@ -42,7 +42,6 @@ With **4+ years of experience** in:
 ### Testing Tools:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -116,6 +115,6 @@ With **4+ years of experience** in:
   
   Made with ❤️ by Mohamed Mohyeldin
   
-  Full Stack Developer | Software Tester
+  Full Stack Developer | Software Tester | Freelancer
   
 </div>
