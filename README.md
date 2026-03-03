@@ -2,7 +2,9 @@
 
 ## 🚀 Full Stack Developer & Software Tester
 
-**Professional web developer and QA tester specialized in building robust, scalable web applications with comprehensive quality assurance**
+**Full-stack software developer and QA engineer with experience building, testing, and optimizing scalable web applications using Laravel, PHP, and MySQL.
+I specialize in developing clean, maintainable, and secure back-end systems while ensuring high quality through manual and automated testing.
+My combined development and QA background enables me to deliver reliable, well-structured solutions that align with business requirements and performance standards.**
 
 With **4+ years of experience** in:
 - 🔧 Building REST APIs & Web Applications
