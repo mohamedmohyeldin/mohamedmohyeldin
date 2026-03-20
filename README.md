@@ -9,10 +9,12 @@ I develop secure, maintainable backend systems and ensure high-quality delivery 
 My combined expertise in development and QA enables me to deliver reliable, high-performance solutions aligned with business goals.**
 
 With **4+ years of experience** in:
-- 🔧 Building REST APIs & Web Applications
-- 💻 eCommerce Systems & Scalable Web Solutions
+- 🔧 Build scalable web applications (Laravel / Node.js)
+- 🌐 Develop RESTful APIs & backend systems
+- 🛒 Create eCommerce & custom web platforms
+- 🐞 Fix bugs & optimize performance
 - 🧪 Manual & Automation Testing
-- ✅ Software Quality Assurance
+- ✅ Perform Manual Testing & API Testing (Postman)
 
 ---
 
@@ -21,6 +23,7 @@ With **4+ years of experience** in:
 - ✨ Specialized in **Laravel & Node.js** development
 - 🧪 Experienced in **Manual & Automated Testing**
 - 🔧 Proficient in **PHP & JavaScript**
+- 🌍 Active Freelancer
 - 🎯 I love writing clean, maintainable code
 - 📚 Always learning new technologies
 - 🌐 Working on Freelance platforms (Freelancer, Mostaql, Khamsat, Nafezly)
