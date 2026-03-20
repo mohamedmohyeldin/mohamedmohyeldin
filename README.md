@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed Mohyeldin
 
-## 🚀 Full Stack Developer & Software Tester
+## 🚀 Full Stack Developer (Laravel & Node.js) + QA Specialist
 
 **Full-stack software developer and QA engineer with experience building, testing, and optimizing scalable web applications using Laravel, PHP, and MySQL.
 I specialize in developing clean, maintainable, and secure back-end systems while ensuring high quality through manual and automated testing.
