@@ -2,9 +2,11 @@
 
 ## 🚀 Full Stack Developer (Laravel & Node.js) + QA Specialist
 
-**Full-stack software developer and QA engineer with experience building, testing, and optimizing scalable web applications using Laravel, PHP, and MySQL.
-I specialize in developing clean, maintainable, and secure back-end systems while ensuring high quality through manual and automated testing.
-My combined development and QA background enables me to deliver reliable, well-structured solutions that align with business requirements and performance standards.**
+**Full Stack Developer and QA Engineer with experience building and testing scalable web applications using Laravel, Node.js, and MySQL.
+
+I develop secure, maintainable backend systems and ensure high-quality delivery through manual, API, and automation testing.
+
+My combined expertise in development and QA enables me to deliver reliable, high-performance solutions aligned with business goals.**
 
 With **4+ years of experience** in:
 - 🔧 Building REST APIs & Web Applications
