@@ -54,7 +54,7 @@ With **4+ years of experience** in:
 
 ## 🏢 Professional Experience
 
-### Full Stack Developer & Software Tester @ Marwan Tech
+### Full Stack Developer @ Marwan Tech
 - Developing modern web applications from scratch
 - Designing and implementing REST APIs
 - Managing and optimizing databases
