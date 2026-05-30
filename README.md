@@ -8,7 +8,7 @@ I develop secure, maintainable backend systems and ensure high-quality delivery 
 
 My combined expertise in development and QA enables me to deliver reliable, high-performance solutions aligned with business goals.**
 
-With **4+ years of experience** in:
+With **3+ years of experience** in:
 - 🔧 Build scalable web applications (Laravel / Node.js)
 - 🌐 Develop RESTful APIs & backend systems
 - 🛒 Create eCommerce & custom web platforms
