@@ -42,11 +42,13 @@
 
 --- 
 ## 🗂️ Projects
-Mopars Garage — Car maintenance & used-cars marketplace
-Tech: Laravel, JS, MySQL — https://mopars-garage.com/
+Alogla — Law consultancy website for a senior Saudi lawyer "علي ابن فراج العقلاء"
+Tech: Laravel, JS — https://alogla.com/
+Description: Our Office Is One Of The Specialized Offices In The Field Of Commercial And International Law, And We Aim To Provide Distinguished Service.
 
-iNetwork Solutions — Corporate IT site (EG & UAE)
-Tech: Laravel, JS — https://inetworkme.com/
+Skyline Courier — Shipping company website
+Tech: Laravel, JS — https://skylinecourire-eg.com/
+Description (AR): ده موقع لشركه شحن بتقدر تسجل علي الموقع وتبعت الشحنه بتاعتك وتقدر تسجل استفسار وحد بيتواصل معاك. الموقع متكامل مع موقع وتطبيق Shipday اللي بيوفر خدمات الموبايل ونظام تتبع الشحنات.
 
 DAR Metal — Corporate website (KSA)
 Tech: Laravel, JS — https://www.darmetal.com.sa/en
