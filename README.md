@@ -69,6 +69,58 @@ With **3+ years of experience** in:
 
 ---
 
+🗂️ Projects
+
+Mopars Garage — Car maintenance & used-cars marketplace
+
+A full website for car maintenance and used-car sales in Egypt (founded 2016) with plans for regional expansion.
+Role: Full-Stack Developer / QA
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap, MySQL
+Built admin interfaces for products, orders and maintenance services; improved site reliability for real traffic.
+Link: https://mopars-garage.com/
+iNetwork Solutions — IT solutions (Egypt & UAE)
+
+Corporate site for an IT infrastructure and services provider operating in Egypt and the UAE.
+Role: Full-Stack Developer
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap, MySQL
+Implemented company site and service/project showcase pages.
+Link: https://inetworkme.com/
+DAR Metal — Structural & architectural metal solutions (Saudi Arabia)
+
+Corporate website for a large metal manufacturing and engineering company.
+Role: Full-Stack Developer
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap
+Developed site to showcase services, projects and product specs.
+Link: https://www.darmetal.com.sa/en
+Kids World — Mobile educational app (QA / Manual Testing)
+
+Manual testing for an Arabic kids educational app with multiple interactive games.
+Role: QA Engineer (Manual Testing)
+Tech/Type: Mobile manual testing (Android)
+Authored 43 functional test cases, reported 7 bugs (including a critical bug), and delivered a professional test report with recommendations.
+Link: https://play.google.com/store/apps/details?id=com.r1.kidsworld&pcampaignid=web_share&pli=1
+Uedmag — Construction & contracting company
+
+Company site showcasing construction services and project portfolios.
+Role: Full-Stack Developer
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap
+Link: https://uedmag-sa.com/ar
+Dar Aldraia — Integrated lighting solutions
+
+Website for a lighting solutions provider offering product catalogs and custom designs.
+Role: Full-Stack Developer
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap
+Link: https://daralderaiah.com/ar
+Alkou (Al-Kawthar Beach) — Real-estate portal (North Coast, Egypt)
+
+Portal for selling/renting beach units with multi-role accounts (owner, developer, admin), invoice tracking, notifications and contract management.
+Role: Full-Stack Developer
+Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap, MySQL
+Implemented multi-role system and lifecycle for listings, invoices and contract cancellations.
+Link: https://alkou.com/
+Tech stack note: Most projects were built using PHP (Laravel), JavaScript, jQuery, Bootstrap and MySQL.
+---
+
 ## 🧪 Testing & QA Skills
 
 ### Types of Testing:
