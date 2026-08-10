@@ -40,9 +40,8 @@
 - Databases: MySQL, MongoDB
 - Testing: Selenium, Postman, Jest, Mocha
 
----
-
-##🗂️ Projects
+--- 
+## 🗂️ Projects
 Mopars Garage — Car maintenance & used-cars marketplace
 Tech: Laravel, JS, MySQL — https://mopars-garage.com/
 
