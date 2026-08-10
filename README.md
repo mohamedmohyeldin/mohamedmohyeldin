@@ -42,6 +42,29 @@
 
 ---
 
+🗂️ Selected Projects
+Mopars Garage — Car maintenance & used-cars marketplace
+Tech: Laravel, JS, MySQL — https://mopars-garage.com/
+
+iNetwork Solutions — Corporate IT site (EG & UAE)
+Tech: Laravel, JS — https://inetworkme.com/
+
+DAR Metal — Corporate website (KSA)
+Tech: Laravel, JS — https://www.darmetal.com.sa/en
+
+Kids World — Mobile educational app (QA)
+Manual testing, 43 test cases, 7 bugs reported — https://play.google.com/store/apps/details?id=com.r1.kidsworld&pcampaignid=web_share&pli=1
+
+Uedmag — Construction & contracting company
+Tech: Laravel, JS — https://uedmag-sa.com/ar
+
+Dar Aldraia — Integrated lighting solutions
+Tech: Laravel, JS — https://daralderaiah.com/ar
+
+Alkou (Al-Kawthar Beach) — Real-estate portal
+Tech: Laravel, JS, MySQL — https://alkou.com/
+
+---
 ## ✅ Testing & QA
 - Unit / Integration / Functional / Performance / Security / API testing
 - Test planning, test cases, bug tracking, and reporting
