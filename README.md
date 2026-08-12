@@ -71,7 +71,7 @@ With **3+ years of experience** in:
 
 ## 🗂️ Projects
 
-### Alogla — Law consultancy website for a senior Saudi lawyer "علي ابن فراج العقلاء"
+### Alogla — Law Consultancy Website for a Senior Saudi Lawyer, Ali bin Faraj Al-Aqla
 Tech: Laravel, JS — https://alogla.com/
 Description: Our Office Is One Of The Specialized Offices In The Field Of Commercial And International Law, And We Aim To Provide Distinguished Service.
 
