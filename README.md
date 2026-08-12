@@ -75,9 +75,9 @@ With **3+ years of experience** in:
 Tech: Laravel, JS — https://alogla.com/
 Description: Our Office Is One Of The Specialized Offices In The Field Of Commercial And International Law, And We Aim To Provide Distinguished Service.
 
-### Skyline Courier — Shipping company website
-Tech: Laravel, JS — https://skylinecourire-eg.com/
-Description (AR): ده موقع لشركه شحن بتقدر تسجل علي الموقع وتبعت الشحنه بتاعتك وتقدر تسجل استفسار وحد بيتواصل معاك. الموقع متكامل مع موقع وتطبيق Shipday اللي بيوفر خدمات الموبايل ونظام تتبع الشحنات.
+### Skyline Courier — Shipping Company Website
+Tech: Laravel, JavaScript — https://skylinecourire-eg.com/
+Description: A shipping company website where users can register, create and submit shipment requests, track their shipments, and submit inquiries for customer support. The website is integrated with the Shipday platform and mobile application, which provides delivery management services and shipment tracking.
 
 ### DAR Metal — Structural & architectural metal solutions (Saudi Arabia)
 Tech: Laravel, JS — https://www.darmetal.com.sa/en
