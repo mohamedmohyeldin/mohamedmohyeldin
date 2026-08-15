@@ -100,11 +100,11 @@ Tech: Laravel, JS, MySQL — https://alkou.com/
 Description: Portal for selling/renting beach units with multi-role accounts (owner, developer, admin), invoice tracking, notifications and contract management.
 
 ### Mopars Garage — Car maintenance & used-cars marketplace
-Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap, MySQL — https://mopars-garage.com/
+Tech: C# (.Net), JavaScript, jQuery, Bootstrap, SQL — https://mopars-garage.com/
 Description: A full website for car maintenance and used-car sales in Egypt (founded 2016) with plans for regional expansion. Built admin interfaces for products, orders and maintenance services; improved site reliability for real traffic.
 
 ### iNetwork Solutions — IT solutions (Egypt & UAE)
-Tech: PHP (Laravel), JavaScript, jQuery, Bootstrap, MySQL — https://inetworkme.com/
+Tech: C# (.Net), JavaScript, jQuery, Bootstrap, SQL — https://inetworkme.com/
 Description: Corporate site for an IT infrastructure and services provider operating in Egypt and the UAE. Implemented company site and service/project showcase pages.
 
 ---
